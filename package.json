@@ -24,7 +24,7 @@
         "glob": "^7.1.6",
         "helmet": "^3.21.2",
         "http-proxy-middleware": "^0.20.0",
-        "lodash": "^4.17.19",
+        "lodash": "^4.17.21",
         "moment": "^2.24.0",
         "morgan": "^1.9.1",
         "navigator": "^1.0.1",
